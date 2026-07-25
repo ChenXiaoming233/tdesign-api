@@ -7,6 +7,7 @@
 name | type | default | description | required
 -- | -- | -- | -- | --
 bordered | Boolean | true | \- | N
+effect | String | normal | Tab bar material effect。options: normal/glass | N
 fixed | Boolean | true | \- | N
 placeholder | Boolean | false | `1.12.0` | N
 safeAreaInsetBottom | Boolean | true | \- | N

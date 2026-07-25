@@ -14,6 +14,11 @@ export interface TdTabBarProps {
    */
   bordered?: boolean;
   /**
+   * 标签栏的材质效果
+   * @default normal
+   */
+  effect?: 'normal' | 'glass';
+  /**
    * 是否固定在底部
    * @default true
    */

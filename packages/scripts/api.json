@@ -128540,6 +128540,43 @@
       ]
     },
     {
+      "id": 1784888006,
+      "platform_framework": [
+        "8"
+      ],
+      "component": "TabBar",
+      "field_category": 1,
+      "field_name": "effect",
+      "field_type": [
+        "1"
+      ],
+      "field_default_value": "normal",
+      "field_enum": "normal/glass",
+      "field_desc_zh": "标签栏的材质效果",
+      "field_desc_en": "Tab bar material effect",
+      "field_required": 0,
+      "event_input": "",
+      "create_time": "2026-07-24 10:14:00",
+      "update_time": "2026-07-24 10:14:00",
+      "event_output": null,
+      "custom_field_type": null,
+      "syntactic_sugar": null,
+      "readonly": 1,
+      "html_attribute": 0,
+      "trigger_elements": "",
+      "deprecated": 0,
+      "version": "",
+      "test_description": null,
+      "support_default_value": 0,
+      "field_category_text": "Props",
+      "platform_framework_text": [
+        "Vue(Mobile)"
+      ],
+      "field_type_text": [
+        "String"
+      ]
+    },
+    {
       "id": 1376,
       "platform_framework": [
         "8",

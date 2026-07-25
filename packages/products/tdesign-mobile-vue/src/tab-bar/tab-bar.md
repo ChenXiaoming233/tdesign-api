@@ -7,6 +7,7 @@
 名称 | 类型 | 默认值 | 描述 | 必传
 -- | -- | -- | -- | --
 bordered | Boolean | true | 是否显示外边框 | N
+effect | String | normal | 标签栏的材质效果。可选项：normal/glass | N
 fixed | Boolean | true | 是否固定在底部 | N
 placeholder | Boolean | false | `1.12.0`。固定在底部时是否开启占位 | N
 safeAreaInsetBottom | Boolean | true | 是否开启底部安全区适配 | N
