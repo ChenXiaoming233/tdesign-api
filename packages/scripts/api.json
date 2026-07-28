@@ -128806,9 +128806,9 @@
         "1"
       ],
       "field_default_value": "normal",
-      "field_enum": "normal/tag",
-      "field_desc_zh": "选项风格",
-      "field_desc_en": null,
+      "field_enum": "normal/tag/capsule",
+      "field_desc_zh": "选项风格。normal 为弱选中，tag 为逐项标签选中，capsule 为共享胶囊选中态",
+      "field_desc_en": "Option style. normal uses a weak active state, tag uses an item tag, and capsule uses a shared capsule indicator",
       "field_required": 0,
       "event_input": "",
       "create_time": "2023-01-09 08:40:45",
